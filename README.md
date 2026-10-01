@@ -6,7 +6,7 @@ I'm a Principal Delivery Manager specialising in multidisciplinary launches, piv
 
 But I started as a dishwasher in 2006.
 
-And became a biztech operator across 20 years, 2M+ projects, 100+ projects, 10+ industries and multiple cross-functional roles in Europe, Australia and the USA.
+And became a biztech operator across 20 years, 2M+ in budgets, 100+ projects, 10+ industries and multiple cross-functional roles in Europe, Australia and the USA.
 
 So, I founded [Blackaft](https://github.com/blackaft).
 
