@@ -36,4 +36,4 @@ I build in public and frequently experiment in the short-term, with long-term in
 - All kinds of bits, infused with storytelling beats, on [Instagram](https://www.instagram.com/georgekary_) and [YouTube](https://www.youtube.com/@georgekary).
 - Random rumblings on [X](https://x.com/geogkary) or [Threads](https://www.threads.com/@georgekary_) for the creatives.
 - Writings on [Medium](https://medium.com/@georgekary) and [Substack](https://substack.com/@georgekary).
-- Pins and guides on [Wanderlog](https://wanderlog.com/u/georgekary).
+- Travel pins and guides on [Wanderlog](https://wanderlog.com/u/georgekary).
