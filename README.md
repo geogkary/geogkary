@@ -8,12 +8,14 @@ But I started as a dishwasher in 2006.
 
 20 years, 2M+ in budgets, 100+ projects, 10+ industries, 3 startups and multiple cross-functional roles in Europe, Australia and the USA later... [Blackaft](https://github.com/blackaft) was born.
 
-![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-people.png)
-![From left to right: Linq, ProductPanda, Beegger, Chillrep, Flownest, Zenex Innovations, Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-logos.png)
+I build in public and frequently experiment in the short-term, with long-term intent. 
 
-I build in public and frequently experiment in the short-term, with long-term intent. Realised I had an insatiable thirst for storytelling, so I doubled-down in 2025 and became a digital nomad and solo traveller.
+Realised I had an insatiable thirst for storytelling, so I doubled-down in 2025 and became a digital nomad and solo traveller.
 
 I approach AI as a utility and with interoperability in mind.
+
+![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-people.png)
+![From left to right: Linq, ProductPanda, Beegger, Chillrep, Flownest, Zenex Innovations, Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-logos.png)
 
 ## ❌ Don't move forward if
 
