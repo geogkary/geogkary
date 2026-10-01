@@ -26,8 +26,8 @@ I build in public and frequently experiment in the short-term, with long-term in
 
 ## 🤖 Looking for AI goodies?
 
-- Skills and adapters for AI agents under [blackaft/skills](https://github.com/blackaft/skills)
-- Public resources for AI under [blackaft/resources](https://github.com/blackaft/resources)
+- Skills and adapters for AI agents under [blackaft/skills](https://github.com/blackaft/skills).
+- Public resources for AI under [blackaft/resources](https://github.com/blackaft/resources).
 
 ## 🤝 Let's connect
 
