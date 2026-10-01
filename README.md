@@ -17,14 +17,14 @@ Blackaft Associates ([blackaft.com](https://blackaft.com)) is a professional ser
 
 I build in public and frequently experiment in the short-term, with long-term intent. Realised I had an insatiable thirst for storytelling, so I doubled-down in 2025 and became a digital nomad and solo traveller.
 
-❌ Don't move forward with me if:
+![George Kary](https://github.com/blackaft/.github/blob/dev/profile/georgekary.png)
+
+## ❌ Don't move forward with me if
 
 - You're looking for consulting.
 - You need one discipline.
 - You have no problems to fix.
 - Your ship is stable.
-
-![George Kary](https://github.com/blackaft/.github/blob/dev/profile/georgekary.png)
 
 ## 🤖 Looking for AI goodies?
 
@@ -33,7 +33,7 @@ I build in public and frequently experiment in the short-term, with long-term in
 
 ## 🤝 Let's connect
 
-- Discover my story, [here](https://blackaft.com/associates/george-kary/).
+- My story, [here](https://blackaft.com/associates/george-kary/).
 - Networking and opportunities on [LinkedIn](https://www.linkedin.com/in/georgekary/).
 - All kinds of bits, infused with storytelling beats, on [Instagram](https://www.instagram.com/georgekary_) and [YouTube](https://www.youtube.com/@georgekary).
 - Random rumblings on [X](https://x.com/geogkary) or [Threads](https://www.threads.com/@georgekary_) for the creatives.
