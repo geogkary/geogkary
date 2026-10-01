@@ -30,6 +30,8 @@ I build in public and frequently experiment in the short-term, with long-term in
 - You have no problems to fix.
 - Your ship is stable.
 
+![George Kary](https://github.com/blackaft/.github/blob/dev/profile/georgekary.png)
+
 ### 🤖 Looking for AI goodies?
 
 - Skills and adapters for AI agents under [blackaft/skills](https://github.com/blackaft/skills)
