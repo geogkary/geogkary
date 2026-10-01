@@ -15,12 +15,6 @@ So, I founded [Blackaft](https://github.com/blackaft).
 
 Blackaft Associates ([blackaft.com](https://blackaft.com)) is a professional services collective helping me make multidisciplinary delivery accessible to solopreneurs, startups and SMEs.
 
-- Creative studio with Thanos Doumas & [Flownest](https://linktr.ee/flownest_) 💻 and Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
-- Marketing, branding and positioning with Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
-- Business development and co-ventures with [Zenex Innovations](https://zenexinnovations.com/) 💻.
-- AI training and transformation with [Chillrep](https://chillrep.com/) 🤖 and [Linq](https://linq.co/en/) 💼.
-- Product management, design and engineering with [ProductPanda](https://www.productpanda.ai/) 🐼 and Pavlos Tsaousakis & [Beegger](https://www.beegger.com/) 🐝
-
 I build in public and frequently experiment in the short-term, with long-term intent. Realised I had an insatiable thirst for storytelling, so I doubled-down in 2025 and became a digital nomad and solo traveller.
 
 ❌ Don't move forward with me if:
