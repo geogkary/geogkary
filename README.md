@@ -17,7 +17,7 @@ Blackaft Associates ([blackaft.com](https://blackaft.com)) is a professional ser
 
 I build in public and frequently experiment in the short-term, with long-term intent. Realised I had an insatiable thirst for storytelling, so I doubled-down in 2025 and became a digital nomad and solo traveller.
 
-My principle and approach to AI is about interoperability.
+I approach AI as a utility and with interoperability in mind.
 
 ❌ Don't move forward with me if:
 
