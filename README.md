@@ -15,7 +15,7 @@ I build in public and frequently experiment in the short-term, with long-term in
 
 I approach AI as a utility and with interoperability in mind.
 
-❌ Don't move forward with me if:
+## ❌ Don't move forward if
 
 - You're looking for consulting.
 - You need one discipline.
