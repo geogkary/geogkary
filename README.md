@@ -1,17 +1,17 @@
 ## How you doin' 👋
 
-George Kary is a Principal Delivery Manager specialising in multidisciplinary launches, pivots and AI adoption initiatives for solopreneurs, startups and SMEs.
+I'm a Principal Delivery Manager specialising in multidisciplinary launches, pivots and AI adoption initiatives for solopreneurs, startups and SMEs.
 
-But he started as a dishwasher.
+But I started as a dishwasher.
 
 And became a biztech operator across 20 years, 2M+ projects, 100+ projects, 10+ industries and multiple cross-functional roles in Europe, Australia and the USA.
 
-So, he founded [Blackaft](https://github.com/blackaft).
+So, I founded [Blackaft](https://github.com/blackaft).
 
 ![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-people.png)
 ![From left to right: Linq, ProductPanda, Beegger, Chillrep, Flownest, Zenex Innovations, Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-logos.png)
 
-Blackaft Associates ([blackaft.com](https://blackaft.com)) is a professional services collective helping him make multidisciplinary delivery accessible to solopreneurs, startups and SMEs.
+Blackaft Associates ([blackaft.com](https://blackaft.com)) is a professional services collective helping me make multidisciplinary delivery accessible to solopreneurs, startups and SMEs.
 
 - Creative studio with Thanos Doumas & [Flownest](https://linktr.ee/flownest_) 💻 and Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
 - Marketing, branding and positioning with Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
@@ -19,11 +19,9 @@ Blackaft Associates ([blackaft.com](https://blackaft.com)) is a professional ser
 - AI training and transformation with [Chillrep](https://chillrep.com/) 🤖 and [Linq](https://linq.co/en/) 💼.
 - Product management, design and engineering with [ProductPanda](https://www.productpanda.ai/) 🐼 and Pavlos Tsaousakis & [Beegger](https://www.beegger.com/) 🐝
 
-### What's he like?
+I build in public and frequently experiment in the short-term, with long-term intent. Went cuckoo in 2025 and became a digital nomad and a solo traveller with an insatiable thirst for storytelling.
 
-He builds in public and frequently experiments in the short-term, with long-term intent. He went cuckoo in 2025 and became a digital nomad and a solo traveller with an insatiable thirst for storytelling.
-
-### ❌ Don't move forward with him if
+❌ Don't move forward with me if:
 
 - You're looking for consulting.
 - You need one discipline.
@@ -37,6 +35,5 @@ He builds in public and frequently experiments in the short-term, with long-term
 
 ### 🤝 Let's connect
 
-Discover his story: https://blackaft.com/associates/george-kary/
-
+- Discover my story on https://blackaft.com/associates/george-kary/
 - Follow, DM or connect with him on [LinkedIn]()
