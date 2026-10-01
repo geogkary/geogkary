@@ -1,3 +1,5 @@
+> *Delivery is the plot, multidisciplinary is the twist.*
+
 ## How you doin' 👋
 
 I'm a Principal Delivery Manager specialising in multidisciplinary launches, pivots and AI adoption initiatives for solopreneurs, startups and SMEs.
