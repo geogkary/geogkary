@@ -37,5 +37,7 @@ I build in public and frequently experiment in the short-term, with long-term in
 
 ### 🤝 Let's connect
 
-- Discover my story on https://blackaft.com/associates/george-kary/
-- Follow, DM or connect with him on [LinkedIn]()
+- Discover my story on https://blackaft.com/associates/george-kary/.
+- Follow, DM or connect with me on [LinkedIn](https://www.linkedin.com/in/georgekary/).
+- For all kinds of bits, infused with storytelling beats, [Instagram](https://www.instagram.com/georgekary_) and [YouTube](https://www.youtube.com/@georgekary).
+- For random rumblings on [X](https://x.com/geogkary) or [Threads](https://www.threads.com/@georgekary_) for the creatives.
