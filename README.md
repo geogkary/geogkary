@@ -19,11 +19,11 @@ Blackaft Associates ([blackaft.com](https://blackaft.com)) is a professional ser
 - AI training and transformation with [Chillrep](https://chillrep.com/) 🤖 and [Linq](https://linq.co/en/) 💼.
 - Product management, design and engineering with [ProductPanda](https://www.productpanda.ai/) 🐼 and Pavlos Tsaousakis & [Beegger](https://www.beegger.com/) 🐝
 
-What's he like?
+### What's he like?
 
 He builds in public and frequently experiments in the short-term, with long-term intent. He went cuckoo in 2025 and became a digital nomad and a solo traveller with an insatiable thirst for storytelling.
 
-❌ Don't move forward with him if:
+### ❌ Don't move forward with him if
 
 - You're looking for consulting.
 - You need one discipline.
