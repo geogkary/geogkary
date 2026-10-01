@@ -26,12 +26,7 @@ I build in public and frequently experiment in the short-term, with long-term in
 
 More of my story, [here](https://blackaft.com/associates/george-kary/).
 
-## 🤖 Looking for AI goodies?
-
-- Skills and adapters for AI agents under [blackaft/skills](https://github.com/blackaft/skills).
-- Public resources for AI under [blackaft/resources](https://github.com/blackaft/resources).
-
-## 🤝 Let's connect
+🤝 Or let's connect:
 
 - Networking and opportunities on [LinkedIn](https://www.linkedin.com/in/georgekary/).
 - All kinds of bits, infused with storytelling beats, on [Instagram](https://www.instagram.com/georgekary_) and [YouTube](https://www.youtube.com/@georgekary).
