@@ -26,10 +26,12 @@ I build in public and frequently experiment in the short-term, with long-term in
 
 More of my story, [here](https://blackaft.com/associates/george-kary/).
 
-🤝 Or let's connect:
+Or let's connect 🤝
 
 - Networking and opportunities on [LinkedIn](https://www.linkedin.com/in/georgekary/).
 - All kinds of bits, infused with storytelling beats, on [Instagram](https://www.instagram.com/georgekary_) and [YouTube](https://www.youtube.com/@georgekary).
 - Random rumblings on [X](https://x.com/geogkary) or [Threads](https://www.threads.com/@georgekary_) for the creatives.
 - Writings on [Medium](https://medium.com/@georgekary) and [Substack](https://substack.com/@georgekary).
 - Travel pins and guides on [Wanderlog](https://wanderlog.com/u/georgekary).
+
+![George Kary](https://github.com/blackaft/.github/blob/dev/profile/georgekary.png)
