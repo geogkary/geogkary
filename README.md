@@ -24,6 +24,8 @@ I build in public and frequently experiment in the short-term, with long-term in
 - You have no problems to fix.
 - Your ship is stable.
 
+Yes, of course there's AI; I'm not a savage.
+
 ## 🤝 Let's connect
 
 - Networking and opportunities on [LinkedIn](https://www.linkedin.com/in/georgekary/).
