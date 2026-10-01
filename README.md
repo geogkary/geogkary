@@ -30,8 +30,6 @@ He builds in public and frequently experiments in the short-term, with long-term
 - You have no problems to fix.
 - Your ship is stable.
 
-👉 Discover his story: https://blackaft.com/associates/george-kary/
-
 Or just use AI to validate all of this, come on.
 
 ### 🤖 Looking for AI goodies?
@@ -40,3 +38,5 @@ Or just use AI to validate all of this, come on.
 - Explore public resources for AI under [blackaft/resources](https://github.com/blackaft/resources)
 
 ### 🤝 Let's connect
+
+👉 Discover his story: https://blackaft.com/associates/george-kary/
