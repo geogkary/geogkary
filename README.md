@@ -30,8 +30,8 @@ He builds in public and frequently experiments in the short-term, with long-term
 - You have no problems to fix.
 - Your ship is stable.
 
-👉 Discover his story: https://blackaft.com/associates/george-kary/
-📩 Request your quote: associates@blackaft.com
+- 👉 Discover his story: https://blackaft.com/associates/george-kary/
+- 📩 Request your quote: associates@blackaft.com
 
 Or just use AI to validate all of this, come on.
 
