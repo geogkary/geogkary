@@ -8,8 +8,8 @@ And became a biztech operator across 20 years, 2M+ projects, 100+ projects, 10+ 
 
 At which pointed he founded Blackaft.
 
-![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](blackaft-people.png)
-![From left to right: Linq, ProductPanda, Beegger, Chillrep, Flownest, Zenex Innovations, Kallos Branding](blackaft-logos.png)
+![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-people.png)
+![From left to right: Linq, ProductPanda, Beegger, Chillrep, Flownest, Zenex Innovations, Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-logos.png)
 
 A professional services collective helping him make multidisciplinary delivery accessible to solopreneurs, startups and SMEs.
 
