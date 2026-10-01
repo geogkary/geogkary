@@ -4,7 +4,7 @@
 
 I'm a Principal Delivery Manager specialising in multidisciplinary launches, pivots and AI adoption initiatives for solopreneurs, startups and SMEs.
 
-But I started as a dishwasher.
+But I started as a dishwasher in 2006.
 
 And became a biztech operator across 20 years, 2M+ projects, 100+ projects, 10+ industries and multiple cross-functional roles in Europe, Australia and the USA.
 
