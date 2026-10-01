@@ -2,7 +2,7 @@
 
 # How you doin' 👋
 
-I'm a Principal Delivery Manager specialising in multidisciplinary launches, pivots and AI adoption initiatives for solopreneurs, startups and SMEs.
+I'm a Senior Delivery Manager specialising in multidisciplinary launches, pivots and AI adoption initiatives for solopreneurs, startups and SMEs.
 
 But I started as a dishwasher in 2006.
 
