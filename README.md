@@ -1,6 +1,6 @@
 > *Delivery is the plot, multidisciplinary is the twist.*
 
-## How you doin' 👋
+# How you doin' 👋
 
 I'm a Principal Delivery Manager specialising in multidisciplinary launches, pivots and AI adoption initiatives for solopreneurs, startups and SMEs.
 
@@ -32,12 +32,12 @@ I build in public and frequently experiment in the short-term, with long-term in
 
 ![George Kary](https://github.com/blackaft/.github/blob/dev/profile/georgekary.png)
 
-### 🤖 Looking for AI goodies?
+## 🤖 Looking for AI goodies?
 
 - Skills and adapters for AI agents under [blackaft/skills](https://github.com/blackaft/skills)
 - Public resources for AI under [blackaft/resources](https://github.com/blackaft/resources)
 
-### 🤝 Let's connect
+## 🤝 Let's connect
 
 - Discover my story, [here](https://blackaft.com/associates/george-kary/).
 - Networking and opportunities on [LinkedIn](https://www.linkedin.com/in/georgekary/).
