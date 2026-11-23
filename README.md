@@ -1,29 +1,28 @@
-> *Delivery is the plot, multidisciplinary is the twist.*
-
 # How you doin' 👋
 
-I'm a Senior Delivery Manager specialising in multidisciplinary launches, pivots and AI adoption initiatives for solopreneurs, startups and SMEs.
+Let's clear the air real quick. I'm not an AI specialist.
 
-But I started as a dishwasher in 2006.
+I'm not a transformation expert, a consultant or content guru with magic prompts. I don't barge in with third-party services, blackbox solutions, retains or technical audits about which workflow automations to implement and where to introduce autonomous processes.
 
-20 years, 2M+ in budgets, 100+ projects, 10+ industries, 3 startups and multiple cross-functional roles in Europe, Australia and the USA later... [Blackaft](https://github.com/blackaft) was born.
+Instead, I work with SMEs implementing AI on their own.
 
-I build in public and frequently experiment in the short-term, with long-term intent. Realised I had an insatiable thirst for storytelling, so I doubled-down in 2025 and became a digital nomad and solo traveller.
+I simply provide tools, resources, frameworks and hands-on bootcamps as part of a delivery management process grounded in software and product development principles. A process crafted across:
 
-![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-people.png)
-![From left to right: Linq, ProductPanda, Beegger, Chillrep, Flownest, Zenex Innovations, Kallos Branding](https://github.com/blackaft/.github/blob/dev/profile/blackaft-logos.png)
+- 20+ years of cross-functional experience.
+- 100+ public/private sector projects, incl. leading the launch of major initiatives.
+- 2M+ in budgets handled, incl. scaling an agency to 7 figures and securing a 6-figure VC investment for an AI startup.
+- 10+ industries in Europe, Australia and the USA.
 
-## ❌ Don't move forward if
+You know, from a time before AI.
 
-- You're looking for consulting.
-- You need one discipline.
-- You have no problems to fix.
-- Your ship is stable.
+## ☕ What I'm doing
+
+I'm building [Blackaft Associates](https://github.com/blackaft) to help SMEs implement AI on their own, which gives me the distinct pleasure to partner with some amazing folks like [Chris Mitsis](https://www.linkedin.com/in/christosmitsis/), [Yannis Imelos](https://www.linkedin.com/in/yannis-imelos/) of Linq, [Pavlos Tsaousakis](https://www.linkedin.com/in/pavlostsa/) of Beegger, [Giannis Zaoudis](https://www.linkedin.com/in/zaoudis/) of ProductPanda and [Martin Ullim](https://www.linkedin.com/in/martin-yllim/) of Zenex Innovations.
+
+I travel a lot - especially between Athens and Brussels - and I'm obsessed with storytelling and narrative management.
 
 ## 🤝 Let's connect
 
-- Networking and opportunities on [LinkedIn](https://www.linkedin.com/in/georgekary/).
-- All kinds of bits, infused with storytelling beats, on [Instagram](https://www.instagram.com/georgekary_) and [YouTube](https://www.youtube.com/@georgekary).
-- Random rumblings on [X](https://x.com/geogkary) or [Threads](https://www.threads.com/@georgekary_) for the creatives.
-- Writings on [Medium](https://medium.com/@georgekary) and [Substack](https://substack.com/@georgekary).
-- Travel pins and guides on [Wanderlog](https://wanderlog.com/u/georgekary).
+- Good old networking on [LinkedIn](https://www.linkedin.com/in/georgekary/), with sprinkles of statements.
+- Writings of all kinds of things on [Medium](https://medium.com/@georgekary) and [Substack](https://substack.com/@georgekary).
+- Travel pins and guides on [Wanderlog](https://wanderlog.com/u/georgekary) for the adventurous.
