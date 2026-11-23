@@ -12,7 +12,7 @@ I simply provide tools, resources, frameworks and hands-on bootcamps as part of 
 
 - 20+ years of cross-functional experience.
 - 100+ public/private sector projects, incl. leading the launch of major initiatives.
-- 2M+ in budgets handled, incl. scaling an agency to 7 figures and securing a 6-figure VC investment for an AI startup.
+- 2M+ in budgets handled, incl. scaling an agency to 7 figures and securing a 6-figure VC investment for a startup.
 - 10+ industries in Europe, Australia and the USA.
 
 You know, from a time before AI.
