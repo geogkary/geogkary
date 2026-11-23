@@ -8,7 +8,7 @@ I don't barge in with third-party services, blackbox solutions, retainers or tec
 
 Instead, I work with SMEs implementing AI on their own.
 
-I simply provide tools, resources, frameworks and hands-on bootcamps as part of a delivery management process grounded in software and product development principles. A process crafted across:
+I provide tools, resources, frameworks and hands-on bootcamps as part of a delivery management process grounded in software and product development principles. A process crafted across:
 
 - 20+ years of cross-functional experience.
 - 100+ public/private sector projects, incl. leading the launch of major initiatives.
