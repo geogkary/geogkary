@@ -2,7 +2,9 @@
 
 Let's clear the air real quick. I'm not an AI specialist.
 
-I'm not a transformation expert, consultant or content guru with magic prompts. I don't barge in with third-party services, blackbox solutions, retains or technical audits about which workflow automations to implement and where to introduce autonomous processes.
+I'm not a transformation expert, consultant or content guru with magic prompts. 
+
+I don't barge in with third-party services, blackbox solutions, retains or technical audits about which workflow automations to implement and where to introduce autonomous processes.
 
 Instead, I work with SMEs implementing AI on their own.
 
@@ -25,6 +27,6 @@ I travel a lot - especially between Athens and Brussels - and I'm obsessed with 
 
 ## 🤝 Let's connect
 
-- Good old networking on [LinkedIn](https://www.linkedin.com/in/georgekary/), with sprinkles of statements.
+- Good old networking on [LinkedIn](https://www.linkedin.com/in/georgekary/), with sprinkles of AI implementation statements.
 - Writings of all kinds of things on [Medium](https://medium.com/@georgekary) and especially [Substack](https://substack.com/@georgekary).
-- Travel pins and guides on [Wanderlog](https://wanderlog.com/u/georgekary) for the adventurous.
+- Travel pins and guides on [Wanderlog](https://wanderlog.com/u/georgekary), for the adventurous.
