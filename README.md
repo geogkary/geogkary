@@ -19,14 +19,17 @@ You know, from a time before AI.
 
 ## ☕ What I'm doing
 
-I'm contracting as a Senior Delivery Manager while developing [Blackaft Associates](https://github.com/blackaft) as a Service-as-Software provider for SMEs implementing AI on their own.
+I'm currently contracting as a Senior Delivery Manager while developing [Blackaft Associates](https://github.com/blackaft) as a Service-as-Software provider for SMEs implementing AI on their own.
 
 This gives me the distinct pleasure to partner with some amazing folks like [Chris Mitsis](https://www.linkedin.com/in/christosmitsis/), [Yannis Imelos](https://www.linkedin.com/in/yannis-imelos/) of Linq, [Pavlos Tsaousakis](https://www.linkedin.com/in/pavlostsa/) of Beegger, [Giannis Zaoudis](https://www.linkedin.com/in/zaoudis/) of ProductPanda, [Martin Ullim](https://www.linkedin.com/in/martin-yllim/) of Zenex Innovations and [Thomas Athanasiou](https://www.linkedin.com/in/thomas-athanasiou-0a8bb644/).
 
 I travel a lot - especially between Athens and Brussels - and I'm obsessed with storytelling and narrative management.
+
+On the latter, I'm using the [Burnout Experiment]() as a build-in-public sandbox for testing ideas.
 
 ## 🤝 Let's connect
 
 - Good old networking on [LinkedIn](https://www.linkedin.com/in/georgekary/), with sprinkles of AI implementation statements.
 - Writings of all kinds of things on [Medium](https://medium.com/@georgekary) and especially [Substack](https://substack.com/@georgekary).
 - Travel pins and guides on [Wanderlog](https://wanderlog.com/u/georgekary), for the adventurous.
+- [YouTube](https://www.youtube.com/@georgekary), if you're more into the audiovisual side of content.
