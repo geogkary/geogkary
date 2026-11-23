@@ -21,7 +21,7 @@ You know, from a time before AI.
 
 I'm currently contracting as a Delivery Manager while developing [Blackaft Associates](https://github.com/blackaft) as a Service-as-Software provider for SMEs implementing AI on their own.
 
-This gives me the distinct pleasure to partner with some amazing folks like [Chris Mitsis](https://www.linkedin.com/in/christosmitsis/), [Yannis Imelos](https://www.linkedin.com/in/yannis-imelos/) of Linq, [Pavlos Tsaousakis](https://www.linkedin.com/in/pavlostsa/) of Beegger, [Giannis Zaoudis](https://www.linkedin.com/in/zaoudis/) of ProductPanda, [Martin Ullim](https://www.linkedin.com/in/martin-yllim/) of Zenex Innovations, [Thomas Athanasiou](https://www.linkedin.com/in/thomas-athanasiou-0a8bb644/) and others.
+This gives me the opportunity to partner with amazing folks like [Chris Mitsis](https://www.linkedin.com/in/christosmitsis/), [Yannis Imelos](https://www.linkedin.com/in/yannis-imelos/) of Linq, [Pavlos Tsaousakis](https://www.linkedin.com/in/pavlostsa/) of Beegger, [Giannis Zaoudis](https://www.linkedin.com/in/zaoudis/) of ProductPanda, [Martin Ullim](https://www.linkedin.com/in/martin-yllim/) of Zenex Innovations, [Thomas Athanasiou](https://www.linkedin.com/in/thomas-athanasiou-0a8bb644/) and others.
 
 I travel a lot - especially between Athens and Brussels - and I'm obsessed with narrative management and (visual) storytelling. On that one, I'm using the [Burnout Experiment](https://burnoutexperiment.substack.com/) as a build-in-public sandbox for testing ideas.
 
