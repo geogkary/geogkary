@@ -4,7 +4,7 @@ Let's clear the air real quick. I'm not an AI specialist.
 
 I'm not a transformation expert, consultant or content guru with magic prompts. 
 
-I don't barge in with third-party services, blackbox solutions, retains or technical audits about which workflow automations to implement and where to introduce autonomous processes.
+I don't barge in with third-party services, blackbox solutions, retainers or technical audits about which workflow automations to implement and where to introduce autonomous processes.
 
 Instead, I work with SMEs implementing AI on their own.
 
